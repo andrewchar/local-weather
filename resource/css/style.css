@@ -1,0 +1,24 @@
+body,
+html {
+    font-size: 26px;
+    background: #1A2980; /* fallback for old browsers */
+    background: -webkit-linear-gradient(right, #1A2980, #26D0CE);
+    background: linear-gradient(to left, #1A2980, #26D0CE); 
+    color: #fff;
+    font-family: 'Lato', sans-serif;
+}
+
+.jumbotron {
+  margin-top: 45px;
+  background-color: transparent;
+}
+
+#myLocation,
+#myTemp,
+#descript {
+  font-size: 100%;
+}
+
+#icon img {
+  height: 100px;
+}
